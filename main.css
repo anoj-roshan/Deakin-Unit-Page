@@ -1,6 +1,11 @@
-
+.header {
+    background-color: blue;
+    text-align: right;
+    padding: 10px;
+}
 
 h1 {
+<<<<<<< HEAD
   font-size: 40px;
   font-family: Arial;
 }
@@ -20,3 +25,22 @@ th, td {
 tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
+=======
+    font-size: 40px;
+    font-family: Arial;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: Arial;
+}
+
+h3 {
+    font-family: Arial;
+}
+
+p {
+    font-size: 14px;
+    font-family: Arial;
+}
+>>>>>>> fa023ee3ed3ad84e951ab3fee696b3a16652b77a
